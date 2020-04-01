@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RymdSpel", "RymdSpel\RymdSpel.csproj", "{F3FCA311-8E63-4BFD-9118-CAB0347E6A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FCA311-8E63-4BFD-9118-CAB0347E6A21}.Debug|x86.ActiveCfg = Debug|x86
+		{F3FCA311-8E63-4BFD-9118-CAB0347E6A21}.Debug|x86.Build.0 = Debug|x86
+		{F3FCA311-8E63-4BFD-9118-CAB0347E6A21}.Release|x86.ActiveCfg = Release|x86
+		{F3FCA311-8E63-4BFD-9118-CAB0347E6A21}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96BB2CA5-BE89-4D9C-A1C4-3CDC00870429}
+	EndGlobalSection
+EndGlobal
